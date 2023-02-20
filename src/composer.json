@@ -1,0 +1,6 @@
+{
+  "require": {
+    "omise/omise-php": "dev-master",
+    "corals/payment": "@dev"
+  }
+}
